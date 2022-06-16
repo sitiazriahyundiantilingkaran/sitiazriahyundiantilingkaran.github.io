@@ -1,0 +1,270 @@
+body{
+    background-color: #fff ;
+    color: black;
+    }
+
+    .table1 {
+        font-family: sans-serif;
+        color: rgb(16, 16, 16);
+        border-collapse: collapse;
+        width: 70%;
+        border: 1px solid #070707;
+        }
+        .table1 tr th{
+        background: #ed06065d;
+        color: rgba(14, 13, 13, 0.959);
+        font-weight: normal;
+        border: 1px solid rgb(0, 0, 0);
+        padding: 8px 20px;
+        }
+        .table1 th {
+        padding: 8px 20px;
+        text-align: center;
+        border: 1px solid rgb(0, 0, 0);
+        padding: 8px 20px;
+        }
+        .table1 td {
+        padding: 8px 20px;
+        text-align: justify;
+        border: 1px solid rgb(0, 0, 0);
+        padding: 8px 20px;
+        }
+        .table1 tr:hover {
+        background-color: #f0d8d8e3;
+        border: 1px solid rgb(0, 0, 0);
+        padding: 8px 20px;
+        }
+        .table1 tr:nth-child(even) {
+        background-color: #f0d8d8e3;
+        border: 1px solid rgb(0, 0, 0);
+        padding: 8px 20px;
+        }
+
+        .table2 {
+            font-family: sans-serif;
+            color: rgb(16, 16, 16);
+            border-collapse: collapse;
+            width: 70%;
+            border: 1px solid #070707;
+            }
+            .table2 tr th{
+            background: #ed06065d;
+            color: rgba(14, 13, 13, 0.959);
+            font-weight: normal;
+            border: 1px solid rgb(0, 0, 0);
+            padding: 8px 20px;
+            }
+            .table2 th {
+            padding: 8px 20px;
+            text-align: center;
+            border: 1px solid rgb(0, 0, 0);
+            padding: 8px 20px;
+            }
+            .table2 td {
+            padding: 8px 20px;
+            text-align: justify;
+            border: 1px solid rgb(0, 0, 0);
+            padding: 8px 20px;
+            }
+            .table2 tr:hover {
+            background-color: #f0d8d8e3;
+            border: 1px solid rgb(0, 0, 0);
+            padding: 8px 20px;
+            }
+            .table2 tr:nth-child(even) {
+            background-color: #f0d8d8e3;
+            border: 1px solid rgb(0, 0, 0);
+            padding: 8px 20px;
+            }
+
+            .kotak1{
+            padding: 10px;
+            width: 150px;
+            color: rgb(0, 0, 0);
+            margin: 5px;
+            background: rgba(255, 0, 55, 0.336);
+            }
+
+            .kotak2{
+                padding: 10px;
+                width: 150px;
+                color: rgb(0, 0, 0);
+                margin: 5px;
+                background: rgba(255, 0, 55, 0.336);
+                }
+
+                .table3 {
+                    font-family: sans-serif;
+                    color: rgb(16, 16, 16);
+                    border-collapse: collapse;
+                    width: 50%;
+                    border: 1px solid #070707;
+                    }
+                    .table3 tr th{
+                    background: #ed06065d;
+                    color: rgba(14, 13, 13, 0.959);
+                    font-weight: normal;
+                    border: 1px solid rgb(0, 0, 0);
+                    padding: 8px 20px;
+                    }
+                    .table3 th {
+                    padding: 8px 20px;
+                    text-align: center;
+                    border: 1px solid rgb(0, 0, 0);
+                    padding: 8px 20px;
+                    }
+                    .table3 td {
+                    padding: 8px 20px;
+                    text-align: center;
+                    border: 1px solid rgb(0, 0, 0);
+                    padding: 8px 20px;
+                    }
+                    .table3 tr:hover {
+                    background-color: #f0d8d8e3;
+                    border: 1px solid rgb(0, 0, 0);
+                    padding: 8px 20px;
+                    }
+                    .table3 tr:nth-child(even) {
+                    background-color: #f0d8d8e3;
+                    border: 1px solid rgb(0, 0, 0);
+                    padding: 8px 20px;
+                    }
+
+                    .kotak3{
+                        padding: 10px;
+                        width: 690px;
+                        color: rgb(0, 0, 0);
+                        margin: 5px;
+                        background: rgba(255, 0, 55, 0.336);
+                        }
+
+                    .kotak4{
+                        padding: 10px;
+                        width: 610px;
+                        color: rgb(0, 0, 0);
+                        margin: 5px;
+                        background: rgba(255, 0, 55, 0.336);
+                        }
+
+                    .kotak5{
+                        padding: 10px;
+                        width: 415px;
+                        color: rgb(0, 0, 0);
+                        margin: 5px;
+                        background: rgba(255, 0, 55, 0.336);
+                        }
+
+                    .kotak6{
+                        padding: 10px;
+                        width: 830px;
+                        color: rgb(0, 0, 0);
+                        margin: 5px;
+                        background: rgba(255, 0, 55, 0.336);
+                        }
+
+                    .kotak7{
+                            padding: 10px;
+                            width: 840px;
+                            color: rgb(0, 0, 0);
+                            margin: 5px;
+                            background: rgba(255, 0, 55, 0.336);
+                            }
+                    
+                            .kotak8{
+                                padding: 10px;
+                                width: 650px;
+                                color: rgb(0, 0, 0);
+                                margin: 5px;
+                                background: rgba(255, 0, 55, 0.336);
+                                }
+
+                                .kotak9{
+                                    padding: 5px;
+                                    width: 500px;
+                                    color: rgb(0, 0, 0);
+                                    margin: 5px;
+                                    background: rgba(255, 0, 55, 0.336);
+                                    }
+
+                                    .kotak10{
+                                        padding: 5px;
+                                        width: 200px;
+                                        color: rgb(0, 0, 0);
+                                        margin: 5px;
+                                        background: rgba(255, 0, 55, 0.336);
+                                        }
+
+                                        .kotak11{
+                                            padding: 5px;
+                                            width: 380px;
+                                            color: rgb(0, 0, 0);
+                                            margin: 5px;
+                                            background: rgba(60, 255, 0, 0.336);
+                                            }
+
+                                            .kotak12{
+                                                padding: 5px;
+                                                width: 380px;
+                                                color: rgb(0, 0, 0);
+                                                margin: 5px;
+                                                background: rgba(255, 0, 55, 0.336);
+                                                }
+
+                                                .kotak13{
+                                                    padding: 5px;
+                                                    width: 380px;
+                                                    color: rgb(0, 0, 0);
+                                                    margin: 5px;
+                                                    background: rgba(255, 0, 55, 0.336);
+                                                    }
+
+                                                    .kotak14{
+                                                        padding: 5px;
+                                                        width: 750px;
+                                                        color: rgb(0, 0, 0);
+                                                        margin: 5px;
+                                                        background: rgba(255, 0, 55, 0.336);
+                                                        }
+
+                                                        .kotak15{
+                                                            padding: 5px;
+                                                            width: 250px;
+                                                            color: rgb(0, 0, 0);
+                                                            margin: 5px;
+                                                            background: rgba(255, 0, 55, 0.336);
+                                                            }
+
+                                                            .kotak16{
+                                                                padding: 5px;
+                                                                width: 250px;
+                                                                color: rgb(0, 0, 0);
+                                                                margin: 5px;
+                                                                background: rgba(255, 0, 55, 0.336);
+                                                                }
+
+                                                                .kotak17{
+                                                                    padding: 5px;
+                                                                    width: 200px;
+                                                                    color: rgb(0, 0, 0);
+                                                                    margin: 5px;
+                                                                    background: rgba(255, 0, 55, 0.336);
+                                                                    }
+
+                                                                    .kotak18{
+                                                                        padding: 10px;
+                                                                        width: 300px;
+                                                                        color: rgb(0, 0, 0);
+                                                                        margin: 5px;
+                                                                        background: rgba(255, 0, 55, 0.336);
+                                                                        }
+
+                                                                        .gambar26{
+                                                                            width: 150px;
+                                                                            float: left;
+                                                                            margin-right: 10px;
+                                                                            }
+                                                                            .gambar27{
+                                                                                width: 150px;
+                                                                                float: left;
+                                                                                margin-right: 10px;
+                                                                                }
